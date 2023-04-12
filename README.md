@@ -26,7 +26,7 @@ NinjaOne’s agent-based approach enables complete management of any internet-co
 - Output : Fully Native
 - Features : Not Yet, Beta Release.
 
-If you have a question mark in your mind, you can contact me telegram : @edgeguard
+If you have a question mark in your mind, you can contact me telegram : @EGuardDeveloper
 
 
 -------------------------------------------------------------------
